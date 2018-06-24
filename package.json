@@ -1,0 +1,12 @@
+{
+  "name": "walt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "walt-compiler": "^0.6.2",
+    "walt-loader": "^1.0.19",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
